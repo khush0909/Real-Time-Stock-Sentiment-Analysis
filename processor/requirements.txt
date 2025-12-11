@@ -1,0 +1,4 @@
+pyspark==3.5.0
+psycopg2-binary
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
